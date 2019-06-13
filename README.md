@@ -5,4 +5,4 @@ WEB GIỚI THIỆU VỀ NHỮNG ĐỊA ĐIỂM ĂN UỐNG VÀ DU LỊCH TẠI NH
 *Giao Diện Chính Thứ Hai
 ![IMG](theme2.png)
 *Đăng Ký Tài Khoản Người Dùng Thành Công </br>
-![IMG](Đăng ký tài khoảng thành công.png)
+![IMG](dangkytkthanhcong.png)
