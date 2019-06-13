@@ -8,7 +8,8 @@ WEB GIỚI THIỆU VỀ NHỮNG ĐỊA ĐIỂM ĂN UỐNG VÀ DU LỊCH TẠI NH
 ![IMG](dangkytkthanhcong.png)
 *Đăng Ký Tài Khoản Thất Bại Khi Thiếu Thông Tin
 ![IMG](loineukonhapmk.png)
-*Dữ Liệu Thành Viên Trong Cộng Đồng
+*Dữ Liệu Thành Viên Trong Cộng Đồng Gồm:</br>-Bảng Đầu Tiên Là Danh Sách Thành Viên</br>
+    -Bảng Thứ Hai là Thông Tin Từng Thành Viên
 ![IMG](csdlthanhvien.png)
 *Contact Giao Lưu Trao Đổi
 ![IMG](contact.png)
