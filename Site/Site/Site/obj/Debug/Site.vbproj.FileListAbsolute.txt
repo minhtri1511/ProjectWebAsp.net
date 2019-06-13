@@ -1,0 +1,96 @@
+c:\users\edogawa doras\documents\visual studio 2012\Projects\Site\Site\obj\Debug\Site.Resources.resources
+c:\users\edogawa doras\documents\visual studio 2012\Projects\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+c:\users\edogawa doras\documents\visual studio 2012\Projects\Site\Site\bin\Site.dll
+c:\users\edogawa doras\documents\visual studio 2012\Projects\Site\Site\bin\Site.pdb
+c:\users\edogawa doras\documents\visual studio 2012\Projects\Site\Site\bin\Site.xml
+c:\users\edogawa doras\documents\visual studio 2012\Projects\Site\Site\obj\Debug\Site.dll
+c:\users\edogawa doras\documents\visual studio 2012\Projects\Site\Site\obj\Debug\Site.xml
+c:\users\edogawa doras\documents\visual studio 2012\Projects\Site\Site\obj\Debug\Site.pdb
+C:\Users\DELL\Desktop\Site\Site\bin\Site.dll
+C:\Users\DELL\Desktop\Site\Site\bin\Site.pdb
+C:\Users\DELL\Desktop\Site\Site\bin\Site.xml
+C:\Users\DELL\Desktop\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DELL\Desktop\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Site\Site\obj\Debug\Site.dll
+C:\Users\DELL\Desktop\Site\Site\obj\Debug\Site.xml
+C:\Users\DELL\Desktop\Site\Site\obj\Debug\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\Site-20190502T001203Z-001\Site\Site\bin\Site.dll
+C:\Users\DESTOP_NEW\Desktop\Site-20190502T001203Z-001\Site\Site\bin\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\Site-20190502T001203Z-001\Site\Site\bin\Site.xml
+C:\Users\DESTOP_NEW\Desktop\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DESTOP_NEW\Desktop\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DESTOP_NEW\Desktop\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.dll
+C:\Users\DESTOP_NEW\Desktop\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.xml
+C:\Users\DESTOP_NEW\Desktop\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.pdb
+C:\Users\DESTOP_NEW\Documents\Site-20190502T001203Z-001\Site\Site\bin\Site.dll
+C:\Users\DESTOP_NEW\Documents\Site-20190502T001203Z-001\Site\Site\bin\Site.pdb
+C:\Users\DESTOP_NEW\Documents\Site-20190502T001203Z-001\Site\Site\bin\Site.xml
+C:\Users\DESTOP_NEW\Documents\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DESTOP_NEW\Documents\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DESTOP_NEW\Documents\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.dll
+C:\Users\DESTOP_NEW\Documents\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.xml
+C:\Users\DESTOP_NEW\Documents\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.pdb
+C:\Users\DELL\Desktop\Site-20190502T001203Z-001-20190502T115826Z-001\Site-20190502T001203Z-001\Site\Site\bin\Site.dll
+C:\Users\DELL\Desktop\Site-20190502T001203Z-001-20190502T115826Z-001\Site-20190502T001203Z-001\Site\Site\bin\Site.pdb
+C:\Users\DELL\Desktop\Site-20190502T001203Z-001-20190502T115826Z-001\Site-20190502T001203Z-001\Site\Site\bin\Site.xml
+C:\Users\DELL\Desktop\Site-20190502T001203Z-001-20190502T115826Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DELL\Desktop\Site-20190502T001203Z-001-20190502T115826Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Site-20190502T001203Z-001-20190502T115826Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.dll
+C:\Users\DELL\Desktop\Site-20190502T001203Z-001-20190502T115826Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.xml
+C:\Users\DELL\Desktop\Site-20190502T001203Z-001-20190502T115826Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DESTOP_NEW\Desktop\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DESTOP_NEW\Desktop\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.dll
+C:\Users\DESTOP_NEW\Desktop\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.xml
+C:\Users\DESTOP_NEW\Desktop\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.dll
+C:\Users\DESTOP_NEW\Desktop\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.xml
+C:\Users\DELL\Desktop\Site backup-20190509T134019Z-001\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.dll
+C:\Users\DELL\Desktop\Site backup-20190509T134019Z-001\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.pdb
+C:\Users\DELL\Desktop\Site backup-20190509T134019Z-001\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.xml
+C:\Users\DELL\Desktop\Site backup-20190509T134019Z-001\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DELL\Desktop\Site backup-20190509T134019Z-001\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Site backup-20190509T134019Z-001\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.dll
+C:\Users\DELL\Desktop\Site backup-20190509T134019Z-001\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.xml
+C:\Users\DELL\Desktop\Site backup-20190509T134019Z-001\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\Site chính-20190510T002034Z-001\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.dll
+C:\Users\DESTOP_NEW\Desktop\Site chính-20190510T002034Z-001\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\Site chính-20190510T002034Z-001\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.xml
+C:\Users\DESTOP_NEW\Desktop\Site chính-20190510T002034Z-001\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DESTOP_NEW\Desktop\Site chính-20190510T002034Z-001\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DESTOP_NEW\Desktop\Site chính-20190510T002034Z-001\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.dll
+C:\Users\DESTOP_NEW\Desktop\Site chính-20190510T002034Z-001\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.xml
+C:\Users\DESTOP_NEW\Desktop\Site chính-20190510T002034Z-001\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\19-20190523T023819Z-001\Site chính23-5-19\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.dll
+C:\Users\DESTOP_NEW\Desktop\19-20190523T023819Z-001\Site chính23-5-19\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\19-20190523T023819Z-001\Site chính23-5-19\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\bin\Site.xml
+C:\Users\DESTOP_NEW\Desktop\19-20190523T023819Z-001\Site chính23-5-19\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DESTOP_NEW\Desktop\19-20190523T023819Z-001\Site chính23-5-19\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DESTOP_NEW\Desktop\19-20190523T023819Z-001\Site chính23-5-19\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.dll
+C:\Users\DESTOP_NEW\Desktop\19-20190523T023819Z-001\Site chính23-5-19\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.xml
+C:\Users\DESTOP_NEW\Desktop\19-20190523T023819Z-001\Site chính23-5-19\Site chính\Site backup\Site backup\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.pdb
+C:\Users\DESTOP_NEW\Documents\19-20190523T023819Z-001\Site-20190502T001203Z-001\Site\Site\bin\Site.dll
+C:\Users\DESTOP_NEW\Documents\19-20190523T023819Z-001\Site-20190502T001203Z-001\Site\Site\bin\Site.pdb
+C:\Users\DESTOP_NEW\Documents\19-20190523T023819Z-001\Site-20190502T001203Z-001\Site\Site\bin\Site.xml
+C:\Users\DESTOP_NEW\Documents\19-20190523T023819Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DESTOP_NEW\Documents\19-20190523T023819Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DESTOP_NEW\Documents\19-20190523T023819Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.dll
+C:\Users\DESTOP_NEW\Documents\19-20190523T023819Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.xml
+C:\Users\DESTOP_NEW\Documents\19-20190523T023819Z-001\Site-20190502T001203Z-001\Site\Site\obj\Debug\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\SITEWEB\Site\Site\Site\bin\Site.dll
+C:\Users\DESTOP_NEW\Desktop\SITEWEB\Site\Site\Site\bin\Site.pdb
+C:\Users\DESTOP_NEW\Desktop\SITEWEB\Site\Site\Site\bin\Site.xml
+C:\Users\DESTOP_NEW\Desktop\SITEWEB\Site\Site\Site\obj\Debug\Site.Resources.resources
+C:\Users\DESTOP_NEW\Desktop\SITEWEB\Site\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+C:\Users\DESTOP_NEW\Desktop\SITEWEB\Site\Site\Site\obj\Debug\Site.dll
+C:\Users\DESTOP_NEW\Desktop\SITEWEB\Site\Site\Site\obj\Debug\Site.xml
+C:\Users\DESTOP_NEW\Desktop\SITEWEB\Site\Site\Site\obj\Debug\Site.pdb
+E:\SITEWEB\Site\Site\Site\bin\Site.dll
+E:\SITEWEB\Site\Site\Site\bin\Site.pdb
+E:\SITEWEB\Site\Site\Site\bin\Site.xml
+E:\SITEWEB\Site\Site\Site\obj\Debug\Site.Resources.resources
+E:\SITEWEB\Site\Site\Site\obj\Debug\Site.vbproj.GenerateResource.Cache
+E:\SITEWEB\Site\Site\Site\obj\Debug\Site.dll
+E:\SITEWEB\Site\Site\Site\obj\Debug\Site.xml
+E:\SITEWEB\Site\Site\Site\obj\Debug\Site.pdb

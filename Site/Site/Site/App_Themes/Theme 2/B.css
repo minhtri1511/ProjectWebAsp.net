@@ -1,0 +1,317 @@
+﻿*
+{
+  /* 
+    Defines the main font used throughout the entire site.
+  */
+  font-family: Arial, Sans-Serif;
+}
+
+body
+{
+  /* 
+    background color.
+  */
+  margin: 0;
+  background-color:#ffc966;
+}
+
+a
+{
+  /*
+     text color.
+  */
+  text-decoration: none;
+  color: #ae3f3f;
+}
+
+  a:hover
+  {
+    /*
+    Underlines links when the user hovers the mouse over them.
+  */
+    text-decoration: underline;
+  }
+
+h1
+{
+  /*
+   font size 
+  */
+  font-size: 25px;
+}
+
+h2
+{
+  /* 
+    Gives h2 elements a different background color and size, 
+    and adds a bit of margin at the top to create room between the heading and the preceding element.
+  */
+  font-size: 100px;
+  color:#fcfcfc ;
+  margin-top: 100px;
+}
+
+#PageWrapper
+{
+  /*
+    Sets the total width for the entire page. Also sets the background color
+    which is used to fill the background of the Sidebar in case the MainContent section is taller than the Sidebar.
+    Uses margin: auto to center the entire page in the middle of the browser's window.
+  */
+  width: 900px;
+  background-color: #ae3f3f;
+  margin: auto;
+}
+
+header
+{
+  /*
+    Gives the header the same width as the PageWrapper. The height creates some room for the logo
+    that is set with the background-image.
+  */
+  background-image: url(Images/111.jpg);
+  background-repeat: no-repeat;
+  width: 900px;
+  height: 400px;
+  background-position: -87px -5px;
+  background-size: cover;
+}
+
+  header a
+  {
+    /*
+    The header a is a link nested in header. It provides a link back to the homepage.
+    The size of the link is the same as the header, so the entire header is clickable.
+  */
+    width: 900px;
+    height: 86px;
+    display: block;
+  }
+
+nav
+{
+  /*
+   thanh menu backgroud nền
+  */
+  background-image: url(Images/MenuBackground.jpg);
+  width: 900px;
+  height: 36px;
+  padding-top: 10px;
+  padding-left: 100px;
+}
+
+  nav a
+  {
+    /*
+    Links in the Menu are white. This gets overriden by styles in chapter 7.
+  */
+    color: #fff;
+  }
+
+.MainMenu
+{
+  /*
+   thanh menu
+
+  */
+  border: 0px solid #999999;
+  width: 814px;
+  height: 0px;
+  background-color:#ae3f3f;
+}
+
+  .MainMenu ul li
+  {
+    /*
+    Gives the four menu items in the main menu a width of 200px each.
+  */
+    width: 130px;
+  }
+
+section#MainContent
+{
+  /*
+    Defines the main content area. The #MainContent element has a minimum height of 500 pixels, but can grow if necessary.
+    The font-size is 80% of its parent element, which in this case comes down to 80% of the font
+    the user has specified as the default font in the browser.
+  */
+  font-size: 0.8em;
+  width: 700px;
+  border-left: 1px solid white;
+  border-right: 2px solid white;
+  float: left;
+  background-color: white;
+  min-height: 500px;
+  padding: 10px;
+}
+
+aside#Sidebar
+{
+  /*
+    theme
+  */
+  font-size: 0.8em;
+  color: black;
+  background-image: url(Images/Sidebar.jpg);
+  background-repeat: no-repeat;
+  background-color: #eeeeee;
+  width: 150px;
+  min-height: 1px;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 20px;
+  float:right;
+}
+#SidebarLogin
+{
+    float:left;
+
+}
+footer
+{
+  /*width: auto;
+  clear: both;
+  height: auto;
+  background-color:#bd5b09 ;
+  color: white;
+  text-align: center;
+  font-size: 1.05em;
+  font-weight: bold;
+  line-height: 50px;*/
+  
+
+}
+
+}
+
+.Introduction
+{
+  font-style: italic;
+  color: #3e3e3e;
+}
+.MyButton {
+    color:white;
+}
+
+.MainMenu ul.level1
+ 
+{
+ 
+/* Định dạng các menu cấp 1 như Home, Reviews, About, Login */
+ 
+font-size: 14px;
+ 
+font-weight: bold;
+ 
+height: 19px;
+ 
+line-height: 19px;
+ 
+}
+ 
+.MainMenu ul.level1 .selected
+ 
+{
+ 
+/* Khi các menu cấp 1 kích hoạt (hay chế độ active) */
+ 
+background-color: #e7bbcb;
+ 
+}
+ 
+.MainMenu a.level1
+ 
+{
+ 
+/* Thêm các khoảng trống bên trái các mục menu*/
+ 
+padding-left: 5px !important;
+ 
+}
+ 
+.MainMenu a.level2
+ 
+{
+ 
+/* Định dạng cho các menu cấp 2 như By Genre, All Reviews,... */
+ 
+background-color: #555555;
+ 
+padding-left: 8px;
+ 
+}
+ 
+.MainMenu a.level1:hover, a.level2:hover
+ 
+{
+ 
+/* Màu nền của các menu (cấp 1 và 2) khi hover */
+ 
+background-color: #45383c ;
+ 
+}
+
+img { border: 0; }
+
+.ErrorMessage {
+    color: violet;
+}
+
+.AJAX {
+    height: 50px;
+    width: 500px;
+    background-image: url(Images/ajax.gif);
+    background-repeat: no-repeat;
+    padding-left: 40px; 
+    line-height: 32px;
+}
+
+.Attention {
+    border: 4px solid red;
+    padding: 90px 0;
+    width: 100px;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+.ItemContainer
+ 
+{
+ 
+width: 600px;
+ 
+list-style-type: none;
+ 
+clear: both;
+ 
+}
+ 
+.ItemContainer li
+ 
+{
+ 
+height: 300px;
+ 
+width: 200px;
+ 
+float: left;
+ 
+}
+ 
+.ItemContainer li img
+ 
+{
+ 
+width: 180px;
+ 
+margin: 10px 20px 10px
+ 
+}
+.nhatrang1
+{
+    width: 50%;
+    height: 50%;
+    padding: 5px;
+    background-color: #e6e6e6;
+}

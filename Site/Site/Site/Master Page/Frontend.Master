@@ -1,0 +1,52 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Frontend.Master.vb" Inherits="Site.Site1" %>
+
+<%@ Register src="../Banners.ascx" tagname="Banners" tagprefix="uc1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="../Scripts/modernizr-2.6.2.js" ></script>
+    <style type="text/css">
+        .auto-style1 {
+            width: 650px;
+            height: 707px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="PageWrapper">
+        <header></header>
+        <nav>
+            <asp:Menu ID="Menu1" runat="server" CssClass="MainMenu" DataSourceID="SiteMapDataSource1" Orientation="Horizontal" StaticEnableDefaultPopOutImage="False"></asp:Menu>
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="False" />
+        </nav>
+        <asp:TreeView ID="TreeView1" runat="server"></asp:TreeView>
+        <section id="MainContent">
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath></br></br>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+     
+        </asp:ContentPlaceHolder>
+            </section>
+        <aside id="Sidebar">
+            <p style="width: 153px">Chọn Theme</p>
+            <asp:DropDownList ID="DropDownList1" runat="server" AutoPostBack="True" >
+                <asp:ListItem>Theme 1</asp:ListItem>
+                <asp:ListItem>Theme 2</asp:ListItem>
+            </asp:DropDownList>
+            <br />
+            <br />
+            <uc1:Banners ID="Banners1" runat="server" />
+            <br />
+    </div>
+
+
+    </form>
+        <center><img src="https://images.foody.vn/biz_banner/foody-upload-api-food-biz-190325092849.jpg" width="1000"></center>
+       
+    </body>
+</html>

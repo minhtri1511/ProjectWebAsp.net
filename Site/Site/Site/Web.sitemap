@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/" title="DiaDiemAnUong"  description="Home">
+    
+    <siteMapNode url="~/Content.aspx" title="Trang chủ"  description="Trang chủ" />
+    
+    <siteMapNode url="~/DiaDiem/DiaDiem.aspx" title="Địa Điểm"  description="Địa Điểm">
+      <siteMapNode url="https://www.foody.vn/khanh-hoa/khu-vuc-tp-nha-trang" title="Nha Trang"/></siteMapNode>
+ 
+    <siteMapNode url="~/ReView/ReView.aspx" title="ReView" description="ReView">
+
+      <siteMapNode url="~/ReView/Reviewtuan.aspx" title="Tuần"/>
+
+      <siteMapNode url="~/ReView/ReViewthang.aspx" title="Tháng" /></siteMapNode>
+    
+   <siteMapNode url="https://www.now.vn/" title="Đặt Giao Hàng"  ></siteMapNode>
+    <siteMapNode url="~/CSDL.aspx" title="Thành Viên"  ></siteMapNode>
+    
+    <siteMapNode url="~/DangKy.aspx" title="Đăng ký"  description="Đăng kí làm thành viên" /> </siteMapNode>
+ 
+   
+
+</siteMap>
